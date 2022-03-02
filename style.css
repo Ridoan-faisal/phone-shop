@@ -1,0 +1,9 @@
+#phone-details-box{
+    width: 50%;
+    }
+    .bold{
+      font-weight: bold;
+    }
+#not-found{
+    display: none;
+}
